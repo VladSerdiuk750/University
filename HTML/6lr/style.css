@@ -1,0 +1,35 @@
+table{
+    border-collapse: collapse;
+    width: 60%;
+    border: 2px solid black;
+    border-bottom: 1px solid black;
+    background-image: url(img/yandex.jpg);
+    background-size: cover;
+}
+th{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+td{
+    text-align: center;
+    height: 30px;
+}
+.year{
+    text-align: right;
+}
+.IE{
+    width: 61.43%;
+    background-color: orange;
+}
+.Firefox{
+    width: 22.4%;
+    background-color: red;
+}
+.Safari{
+    width: 4.55%;
+    background-color: blue;
+}
+.Opera{
+    width: 2.37%;
+    background-color: yellow;
+}
